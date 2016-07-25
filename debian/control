@@ -6,7 +6,7 @@ Build-Depends: debhelper (>= 9),
     build-essential,
     git,
     libgnome-keyring-dev,
-    nodejs
+    nodejs,
     nodejs-legacy
 Standards-Version: 3.9.5
 Homepage: https://atom.io
